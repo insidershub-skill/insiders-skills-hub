@@ -1,0 +1,7 @@
+node_modules/
+.next/
+.claude/
+.env*
+*.log
+dist/
+out/
